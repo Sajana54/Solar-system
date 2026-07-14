@@ -52,6 +52,7 @@ python solarsystem.py
 - Double Buffering
 
  Preview
+ 
  <img width="737" height="477" alt="{392C8A5E-54ED-47A1-A44F-480D8F33E25B}" src="https://github.com/user-attachments/assets/80d72f5d-c087-4173-93f4-7a6a323c791c" />
 
 
