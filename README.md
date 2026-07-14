@@ -55,4 +55,7 @@ python solarsystem.py
  
  <img width="737" height="477" alt="{392C8A5E-54ED-47A1-A44F-480D8F33E25B}" src="https://github.com/user-attachments/assets/80d72f5d-c087-4173-93f4-7a6a323c791c" />
 
+ <img width="960" height="546" alt="{504374A7-1990-4954-94BE-0FBA88D9E0F8}" src="https://github.com/user-attachments/assets/26bb0bdb-0111-4cf1-8f43-881b58828328" />
+
+
 
