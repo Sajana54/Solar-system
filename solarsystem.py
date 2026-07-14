@@ -117,6 +117,8 @@ def draw_sphere(radius, color):
 
 def draw_saturn_ring():
 
+    glPushMatrix()
+
     glRotatef(90, 1, 0, 0)
 
     glColor3f(0.8, 0.8, 0.6)
@@ -136,6 +138,8 @@ def draw_saturn_ring():
             )
 
         glEnd()
+
+    glPopMatrix()
 
 
 def display():
